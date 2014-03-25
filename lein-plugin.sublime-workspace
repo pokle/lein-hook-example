@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"prin",
+				"println"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
 				"cl",
 				"Clusters"
 			],
@@ -28,10 +36,10 @@
 	"buffers":
 	[
 		{
-			"file": "a-plugin/src/leiningen/a_plugin.clj",
+			"file": "a-project/tasks/a_project/hooks.clj",
 			"settings":
 			{
-				"buffer_size": 100,
+				"buffer_size": 309,
 				"line_ending": "Unix"
 			}
 		}
@@ -84,6 +92,14 @@
 	},
 	"file_history":
 	[
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/project.clj",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-plugin/src/leiningen/a_plugin.clj",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-plugin/project.clj",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/tasks/lein-integration/plugin.clj",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/tasks/a-project/hooks.clj",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/src/leiningen/hooker.clj",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/.lein-classpath",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/src/a_project/core.clj",
 		"/Users/tushar/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/tushar/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/tushar/Dropbox/dev-docker/dockbox/Vagrantfile",
@@ -131,6 +147,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"File",
+			"child",
 			"save",
 			"open",
 			"name",
@@ -167,19 +185,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "a-plugin/src/leiningen/a_plugin.clj",
-					"semi_transient": true,
+					"file": "a-project/tasks/a_project/hooks.clj",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 100,
+						"buffer_size": 309,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								71,
+								71
 							]
 						],
 						"settings":

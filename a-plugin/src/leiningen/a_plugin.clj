@@ -1,9 +1,7 @@
 (ns leiningen.a-plugin
   (:use [clojure.java.io]
         [leiningen.clean :only (clean)]
-        [leiningen.uberjar :only (uberjar)]
-        [clojure.pprint :only (pprint)])
-	(:import java.io.File org.apache.commons.io.FileUtils))
+        [leiningen.uberjar :only (uberjar)]))
 
 (defn make-directories-in [base & children]
 		(doseq [child children] 
@@ -20,10 +18,9 @@
   "Packages up the target/dist dir")
 
 (defn a-plugin
-  "I don't do a lot."
+  "Publishes your application"
   [project & args]
 
-  #_(pprint project)
   (clean project)
   (dist project)
   (package project))
