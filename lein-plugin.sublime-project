@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "a-plugin"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "a-project"
+		}
+	]
+}

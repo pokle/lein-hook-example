@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"Clusters"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"i",
+				"ioutil"
+			],
+			[
+				"p",
+				"Println"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "a-plugin/src/leiningen/a_plugin.clj",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"plugi",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tushar/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tushar/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tushar/Dropbox/dev-docker/dockbox/Vagrantfile",
+		"/Users/tushar/Dropbox/dev-docker/runit-2.1.1/src/wait_nohang.c",
+		"/Users/tushar/Dropbox/dev-docker/runit-2.1.1/man/runit.8",
+		"/Users/tushar/Dropbox/dev-docker/runit-2.1.1/doc/runlevels.html",
+		"/Users/tushar/Dropbox/dev-docker/runit-2.1.1/package/README",
+		"/Users/tushar/Dropbox/dev-docker/serf/scripts/cat-handler.sh",
+		"/Users/tushar/Dropbox/dev-docker/serf/scripts/handler.sh",
+		"/Users/tushar/Dropbox/dev-docker/serf/Dockerfile",
+		"/Users/tushar/Dropbox/dev-docker/serf/scripts/members.sh",
+		"/Users/tushar/Dropbox/dev-docker/serf/ipof.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/tomcat/test.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/centos-java/build.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/centos-base/test.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/centos-base/build.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/tomcat/test/webapps/ROOT/index.jsp",
+		"/Users/tushar/Dropbox/dev-ap/images/centos-java/Dockerfile",
+		"/Users/tushar/Dropbox/dev-ap/images/centos-java/test.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/tomcat/build.sh",
+		"/Users/tushar/Dropbox/dev-ap/images/tomcat/Dockerfile",
+		"/Users/tushar/Dropbox/devel/go/Patatosalata/src/patatosalata/list.go",
+		"/Users/tushar/Dropbox/devel/go/hello.go",
+		"/Users/tushar/Dropbox/devel/go/martini/src/main/server.go",
+		"/Users/tushar/Dropbox/devel/go/martini/server.go",
+		"/Users/tushar/Dropbox/devel/go/http.go",
+		"/Users/tushar/Dropbox/devel/go/Patatosalata/build.sh",
+		"/Users/tushar/dev-docker/docker/README.md",
+		"/Users/tushar/dev-docker/scratch/memegen/README.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"save",
+			"open",
+			"name",
+			"wait_nohang",
+			"selfpipe",
+			"sig_child_handler",
+			"sig_int_handler",
+			"sig_term",
+			"ap/",
+			"volly/",
+			"parse",
+			"mac"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"aupo/",
+			"ap/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "a-plugin/src/leiningen/a_plugin.clj",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lein-plugin.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"runit.c",
+				"src/runit.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
