@@ -33,17 +33,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "a-project/tasks/a_project/hooks.clj",
-			"settings":
-			{
-				"buffer_size": 309,
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -92,6 +81,8 @@
 	},
 	"file_history":
 	[
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/`which",
+		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/lein`",
 		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-project/project.clj",
 		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-plugin/src/leiningen/a_plugin.clj",
 		"/Users/tushar/Dropbox/dev-ap/lein-plugin/a-plugin/project.clj",
@@ -177,43 +168,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "a-project/tasks/a_project/hooks.clj",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 309,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								71,
-								71
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Clojure/Clojure.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -249,7 +203,6 @@
 	{
 		"height": 0.0
 	},
-	"project": "lein-plugin.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -290,7 +243,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 274.0,
+	"side_bar_width": 152.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
